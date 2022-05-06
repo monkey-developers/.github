@@ -1,5 +1,5 @@
 # Sobre
-Informações sobre a organização e nós.
+Informações sobre a organização e nós. 🐵🙉🙊🙈
 
 Somos um grupo de estudantes dedicados a aprender os diversos conhecimentos relacionados à ciência da computação, programação e computadores no geral.
 
